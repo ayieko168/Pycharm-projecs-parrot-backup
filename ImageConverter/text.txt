@@ -1,0 +1,14 @@
+This application was developed by
+    Antony.A.Alen
+
+Version Is 1.0
+
+Date of Development was on
+    a Saturday, March 31 2018
+    at 11:34:37 AM
+
+Development environment
+    was on Pycharm
+
+Development Language is
+    Python 3.6

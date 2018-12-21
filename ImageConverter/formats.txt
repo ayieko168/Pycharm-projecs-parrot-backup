@@ -1,0 +1,28 @@
+ANI : Windows animated cursor file format
+BMP : Bitmap graphic files for Windows and OS/2
+CAL : Windows calendar files
+FAX : GFI fax image file
+GIF : CompuServe Graphics Interchange File
+IMG : Graphical Environment Manager (GEM) Image file
+JBG : (JBIG) Joint Bi-level Image experts Group file
+JPE : JPEG/JIFF Image file
+JPEG: JPEG bitmap graphic file
+JPG : JPEG/JIFF Image file
+MAC : MacPaint image file
+PBM : Portable BitMap image file
+PCD : Kodak Photo-CD image file
+PCX : RLE compressed ZSoft PC paintbrush bitmap file
+PCT : MacIntosh PICT image file
+PGM : Portable Greymap file
+PNG : Portable Network Graphics bitmap graphic file
+PPM : Portable Pixmap file
+PDF : Portable Document Format
+PSD : Adobe Photoshop bitmap file
+RAS : Sun Raster image file
+TGA : Targa bitmap
+TIFF: Tag Image File Format bitmap file
+WMF : Windows Meta File 
+
+
+
+                                                                                                                                         ©A^3
